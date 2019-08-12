@@ -3,8 +3,8 @@ title: That Year When Atari Put Video Games in the Powell BART Station
 date: 2019-08-09T13:01:00.000Z
 description: >-
   In 1976, Atari hammered out a deal with the San Francisco Bay Area Rapid
-  Transit System (BART), allowing Aari to place a six screen video game kiosk at
-  BART’s Powell Street Station.
+  Transit System (BART), allowing Atari to place a six screen video game kiosk
+  at BART’s Powell Street Station.
 image: /images/uploads/atari-bart-4.png
 ---
 The Powell Street BART is my subway stop. Every weekday I stand on that depressing platform at least twice. It is dirty, poorly lit, and loud. The MUNI platform upstairs is even worse, and that is saying something.
