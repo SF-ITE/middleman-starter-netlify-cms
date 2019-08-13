@@ -1,8 +1,7 @@
 hero:
   image: /images/uploads/homepage-hero.jpg
-  title: Great coffee with a conscience
+  title: the JavaScript Dev Diary
 story: >-
-  Kaldi is the coffee store for everyone who believes that great coffee
-  shouldn't just taste good, it should do good too. We source all of our beans
-  directly from small scale sustainable farmers and make sure part of the
-  profits are reinvested in their communities.
+  Hi, I'm Eric, a C# developer in San Francisco. I thought it might be interesting and informative to keep a detailed, multimedia diary as I learn a new programming language. Hence, the JavaScript Dev Diary. 
+
+  The elevator pitch is this - At the beginning of this project I did not know js at all. Now, at the end I am proficient enough to start exploring Node and all the other frameworks. 
