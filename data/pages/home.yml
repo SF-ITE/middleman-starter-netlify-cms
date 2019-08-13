@@ -1,7 +1,5 @@
 hero:
   image: /images/uploads/homepage-hero.jpg
-  title: the JavaScript Dev Diary
+  title: JavaScript Dev Diary
 story: >-
-  Hi, I'm Eric, a C# developer in San Francisco. I thought it might be interesting and informative to keep a detailed, multimedia diary as I learn a new programming language. Hence, the JavaScript Dev Diary. 
-
-  The elevator pitch is this - At the beginning of this project I did not know js at all. Now, at the end I am proficient enough to start exploring Node and all the other frameworks. 
+  The internet is littered with programming tutorials, so why another one? Well, this one's a little different. You see, the person keeping the diary and making the lessons, that would be me, has never written a single line in JavaScript. I want to show you how professional developers learn a new language; how that really works. Because we are all StackOverflow cut and pasters, and that's ok.
